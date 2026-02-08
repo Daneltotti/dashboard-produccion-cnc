@@ -41,7 +41,7 @@ Permite analizar cómo se comporta cada material (Acero, Aluminio, Titanio) en t
 ---
 
 ### Filtro por Máquina
-![Filtro por máquina](imágenes/Filtro por Maquina.png)
+![Filtro por máquina](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/cc3589e954a1ddd1f2c58a53040aba136c46eb22/images/Filtro%20por%20Maquina.png)
 
 Permite analizar el rendimiento individual de cada CNC, identificando scrap, consumo y distribución de piezas buenas y malas.
 
