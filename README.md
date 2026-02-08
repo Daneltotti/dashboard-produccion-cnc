@@ -14,7 +14,7 @@ Este tablero ofrece una visión clara y rápida del rendimiento de producción e
 ---
 
 ## Vista general del dashboard
-![Dashboard completo](imágenes/Dashboard.png)
+![Dashboard completo](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/6d60b467aabe44c0437b544b7e60b051adfbe293/images/Dashboard.png)
 
 ---
 
