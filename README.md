@@ -34,7 +34,7 @@ Estas métricas permiten evaluar rápidamente el estado general de la producció
 ## Análisis por filtros
 
 ### Filtro por Material
-![Filtro por material](imágenes/Filtro Material.png)
+![Filtro por material](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/a6572e2d582f9dc865d483a29dc1e5b161dbe3be/images/Filtro%20Material.png)
 
 Permite analizar cómo se comporta cada material (Acero, Aluminio, Titanio) en términos de scrap y producción.
 
