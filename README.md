@@ -3,12 +3,12 @@ Dashboard interactivo desarrollado en Power BI para analizar scrap, producción 
 
 ---
 
-## 📌 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
 El objetivo de este dashboard es ofrecer una visión clara y rápida del rendimiento de producción en un entorno CNC, permitiendo:
 
 - Identificar máquinas con mayor scrap.
-- Analizar piezas buenas vs. malas por material y máquina.
-- Evaluar el consumo de placas por tipo de material.
+- Analizar piezas buenas vs. malas por máquina y por material.
+- Evaluar el consumo de piezas por tipo de material.
 - Filtrar la información por máquina, material, herramienta y rango de fechas.
 
 Este tablero está diseñado para apoyar decisiones operativas y detectar oportunidades de mejora en el proceso de mecanizado.
@@ -16,11 +16,11 @@ Este tablero está diseñado para apoyar decisiones operativas y detectar oportu
 ---
 
 ## 🖥️ Vista general del dashboard
-![Dashboard completo](Dashboard.png)
+![Dashboard completo](imagenes/Dashboard.png)
 
 ---
 
-## 🎯 Principales indicadores
+## 📊 Principales indicadores
 El tablero muestra métricas clave como:
 
 - **Piezas Totales**
@@ -35,22 +35,22 @@ Estas métricas permiten evaluar rápidamente el estado general de la producció
 
 ## 🔍 Análisis por filtros
 
-### 📌 Filtro por máquina
-![Filtro por máquina](Filtro por Maquina.png)
+### 🧱 Filtro por Material
+![Filtro por material](imagenes/Filtro%20Material.png)
 
-Permite analizar el rendimiento individual de cada CNC, identificando scrap, consumo de placas y distribución de piezas buenas/malas.
-
----
-
-### 📌 Filtro por material
-![Filtro por material](Filtro Material.png)
-
-Muestra cómo se comporta cada material (Acero, Aluminio, Titanio) en términos de scrap y producción.
+Permite analizar cómo se comporta cada material (Acero, Aluminio, Titanio) en términos de scrap y producción.
 
 ---
 
-### 📌 Filtro combinado (máquina + material)
-![Filtro combinado](Filtro Por Maquina y Material.png)
+### 🏭 Filtro por Máquina
+![Filtro por máquina](imagenes/Filtro%20por%20Maquina.png)
+
+Permite analizar el rendimiento individual de cada CNC, identificando scrap, consumo y distribución de piezas buenas/malas.
+
+---
+
+### 🧪 Filtro combinado (Máquina + Material)
+![Filtro combinado](imagenes/Filtro%20Por%20Maquina%20y%20Material.png)
 
 Ideal para análisis más específicos, como:
 - ¿Qué máquina genera más scrap con cierto material?
@@ -58,43 +58,39 @@ Ideal para análisis más específicos, como:
 
 ---
 
-## 📊 Visualizaciones incluidas
+## 📈 Visualizaciones incluidas
 
-### 🔹 Consumo de placas por máquina y material
-Gráfico que muestra cuántas placas se utilizaron según:
+### 📊 Consumo de piezas por máquina y material
+Gráficos que muestran cuántas piezas se utilizan según:
 - Máquina
 - Material
 
 Permite detectar consumos anómalos o patrones de desgaste.
 
-### 🔹 Scrap por máquina
-Ranking de máquinas según piezas defectuosas.  
-Ayuda a identificar rápidamente dónde se concentran los problemas.
+---
 
-### 🔹 Piezas buenas vs. malas por material y máquina
-Comparación detallada que permite evaluar:
-- Calidad por material
-- Rendimiento por CNC
-- Relación entre scrap y volumen de producción
+### 🧾 Scrap por máquina
+Identifica máquinas que generan piezas defectuosas.  
+Ayuda a detectar rápidamente dónde se concentran los problemas.
+
+---
+
+### 📉 Comparación de piezas buenas vs. malas por material y máquina
+Gráficos comparativos del rendimiento general:
+- Rendimiento por máquina
+- Rendimiento por material
+
+Permite relacionar scrap y volumen de producción.
 
 ---
 
 ## 🧰 Tecnologías utilizadas
 - **Power BI Desktop**
 - **DAX**
+- **Power Query**
 - **Modelado de datos**
-- **Limpieza y transformación en Power Query**
-
----
-
-## 📈 Conclusiones
-- El scrap se concentra principalmente en ciertas máquinas, lo que permite priorizar acciones correctivas.
-- Algunos materiales presentan mayor variabilidad en piezas malas según la máquina.
-- El consumo de placas muestra patrones que pueden relacionarse con desgaste o eficiencia del mecanizado.
 
 ---
 
 ## 📬 Contacto
-Si querés ver más proyectos o ponerte en contacto:  
-**Danel — [tu email o LinkedIn si querés agregarlo]**
-
+Proyecto desarrollado por **Danel**.  
