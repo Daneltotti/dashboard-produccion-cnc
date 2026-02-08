@@ -48,7 +48,7 @@ Permite analizar el rendimiento individual de cada CNC, identificando scrap, con
 ---
 
 ### Filtro combinado (Máquina + Material)
-![Filtro combinado](imágenes/Filtro Por Maquina y Material.png)
+![Filtro combinado](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/4ad89e934020722c1212b3e3249a845046a601ce/images/Filtro%20Por%20Maquina%20y%20Material.png)
 
 Permite responder preguntas como:
 
