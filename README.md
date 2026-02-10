@@ -14,7 +14,7 @@ Este tablero ofrece una visión clara y rápida del rendimiento de producción e
 ---
 
 ## Vista general del dashboard
-![Dashboard completo](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/6d60b467aabe44c0437b544b7e60b051adfbe293/images/Dashboard.png)
+![Dashboard completo](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/1bea8ee9f50ebffc2f5d3ee5e9c1f2a4cb3f7c7c/images/Dashboard.png)
 
 ---
 
@@ -34,21 +34,21 @@ Estas métricas permiten evaluar rápidamente el estado general de la producció
 ## Análisis por filtros
 
 ### Filtro por Material
-![Filtro por material](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/a6572e2d582f9dc865d483a29dc1e5b161dbe3be/images/Filtro%20Material.png)
+![Filtro por material](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/1bea8ee9f50ebffc2f5d3ee5e9c1f2a4cb3f7c7c/images/Filtro%20Material.png)
 
 Permite analizar cómo se comporta cada material (Acero, Aluminio, Titanio) en términos de scrap y producción.
 
 ---
 
 ### Filtro por Máquina
-![Filtro por máquina](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/cc3589e954a1ddd1f2c58a53040aba136c46eb22/images/Filtro%20por%20Maquina.png)
+![Filtro por máquina](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/1bea8ee9f50ebffc2f5d3ee5e9c1f2a4cb3f7c7c/images/Filtro%20Maquina.png)
 
 Permite analizar el rendimiento individual de cada CNC, identificando scrap, consumo y distribución de piezas buenas y malas.
 
 ---
 
 ### Filtro combinado (Máquina + Material)
-![Filtro combinado](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/4ad89e934020722c1212b3e3249a845046a601ce/images/Filtro%20Por%20Maquina%20y%20Material.png)
+![Filtro combinado](https://github.com/Daneltotti/dashboard-produccion-cnc/blob/1bea8ee9f50ebffc2f5d3ee5e9c1f2a4cb3f7c7c/images/Filtro%20Combinado.png)
 
 Permite responder preguntas como:
 
