@@ -1,4 +1,4 @@
-# Tablero de Control – Producción CNC
+# Producción CNC – Análisis de Scrap y Rendimiento con Power BI y DAX
 Dashboard interactivo desarrollado en Power BI para analizar scrap, producción y consumo de materiales en máquinas CNC.
 
 ---
